@@ -38,9 +38,9 @@
       return {
         notes: [
           {id: 1, content: 'blah blah blah'},
-          {id: 2, content: 'to to tot to'},
+          {id: 2, content: 'Foo'},
           {id: 3, content: 'lorem ipsum'},
-          {id: 4, content: 'bibibi'}
+          {id: 4, content: 'bar'}
         ],
 
         selectedNote: null
