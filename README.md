@@ -1,6 +1,6 @@
 # electron-vue-notes
 
-> An electron-vue project
+> A boilerplate for building a note-taking app using electron-vue & electron-packager
 
 #### Build Setup
 
@@ -13,11 +13,3 @@ npm run dev
 
 # build electron application for production
 npm run build
-
-
-```
-
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[9107e8f](https://github.com/SimulatedGREG/electron-vue/tree/9107e8f55aa9e5eef210307e5e438c280cb029aa) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
-# electron-vue-notes
